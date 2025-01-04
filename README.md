@@ -20,6 +20,4 @@ A beautifully designed unit converter app developed using Java in Android Studio
 - The app will automatically display the converted value in rectangular box.
 
 ## Contribution
-Feel free to contribute by:
-- Reporting bugs.
-- Submitting pull requests.
+Feel free to write about improvements or bug fixes.
